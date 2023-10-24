@@ -1,0 +1,25 @@
+body{
+    background-image: url(pablo.jpg);
+}
+
+div{
+    flex: auto;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    background-color: darkgreen;
+    padding: 5px;
+    width: fit-content;
+}
+h1{
+    font-size: 90px;
+}
+.dofilm{
+    background-color: white;
+}
+.czerw{
+    background-color: darkred;
+}
+.dolinguw{
+    background-color: blue;
+}
