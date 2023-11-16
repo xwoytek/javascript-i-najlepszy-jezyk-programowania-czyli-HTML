@@ -1,4 +1,4 @@
-To jest ta wersja dla specjalnych 
+To jest ta wersja dla specjalnych n\
 nie chciało mi się robić tej zwykłej
 to adriankowi nie powinno przeszkadzać że zrobiliście inną wersje
 pozdro 
