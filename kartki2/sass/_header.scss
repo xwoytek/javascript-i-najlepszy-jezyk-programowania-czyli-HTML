@@ -1,0 +1,12 @@
+header {
+  border: 5px double $red;
+  align-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  div {
+    margin: 5px;
+    height: $hei;
+    width: 100px;
+    background-color: $red;
+  }
+}

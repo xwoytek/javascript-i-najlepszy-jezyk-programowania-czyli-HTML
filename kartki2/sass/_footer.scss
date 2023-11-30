@@ -1,0 +1,19 @@
+footer {
+  border: 5px double $wht;
+  align-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  width: 330px;
+  div {
+    margin: 5px;
+    height: $hei;
+  }
+  .rediv {
+    width: 237.5px;
+    background-color: $red;
+  }
+  .yediv {
+    width: 72.5px;
+    background-color: $yel;
+  }
+}

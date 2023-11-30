@@ -1,0 +1,15 @@
+.ddiv {
+  border: 5px double $wht;
+  align-content: center;
+  div {
+    margin: 5px;
+    height: $hei;
+    width: 320px;
+  }
+  .sdivblu {
+    background-color: $blu;
+  }
+  .sdivgr {
+    background-color: $gren;
+  }
+}
