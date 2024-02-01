@@ -1,0 +1,34 @@
+.bb {
+  .ddiv {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 5px;
+    .sdiv {
+      display: flex;
+      background-color: #f0851a;
+      border-top: #ffd30f;
+      height: fit-content;
+      width: 69vh;
+      padding: 3px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      .tekst {
+        height: fit-content;
+
+        .t1 {
+          font-size: 40px;
+          font-family: "Lato", sans-serif;
+          font-weight: 400;
+          font-style: italic;
+        }
+        .t2 {
+          font-family: "Lato", sans-serif;
+          font-weight: 400;
+          font-style: italic;
+        }
+      }
+    }
+  }
+}
